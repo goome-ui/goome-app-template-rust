@@ -67,7 +67,7 @@ cargo run
 ```
 
 <p align="center">
-<code>cargo run --release</code> for the fast build. goome isnt on crates.io, so <code>Cargo.toml</code> takes it straight from git, pinned to a tag of <a href="https://github.com/goome-ui/rust-goome">rust-goome</a>. Change the tag to update.
+<code>cargo run --release</code> for the fast build. <code>Cargo.toml</code> takes goome from <a href="https://crates.io/crates/goome">crates.io</a>, pinned to <code>0.5.2</code>. Change the number to update.
 </p>
 </details>
 
