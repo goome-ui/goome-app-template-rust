@@ -6,4 +6,4 @@ rust-version = "1.77"
 publish = false
 
 [dependencies]
-goome = "0.5.5"
+goome = "0.5.6"
